@@ -1,0 +1,40 @@
+! ja
+(
+    init UTF-8 HelloWorld
+    import.link style.css
+    import.script main.js
+)
+-
+{
+    // Hedding1~6
+    h1 hedding1
+    h2 hedding2
+    h3 hedding3
+    h4 hedding4
+    h5 hedding6
+    h6 hedding6
+    -
+    // Hedding1~6(class)
+    .h1 className classHedding1
+    .h2 className classHedding2
+    .h3 className classHedding3
+    .h4 className classHedding4
+    .h5 className classHedding5
+    .h6 className classHedding6
+    -
+    // Hedding1~6(id)
+    #h1 idName idHedding1
+    #h2 idName idHedding2
+    #h3 idName idHedding3
+    #h4 idName idHedding4
+    #h5 idName idHedding5
+    #h6 idName idHedding6
+    -
+    // p_tags
+    p text
+    .p className classText
+    #p idName idText
+    -
+}
+-
+!end
