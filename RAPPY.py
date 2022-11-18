@@ -13,7 +13,7 @@ RW = [
     'init',
     '!',
     '!end',
-    'import.link',
+    'import.css.link',
     'import.script',
     'h1',
     'h2',

@@ -1,7 +1,7 @@
 ! ja
 (
     init UTF-8 HelloWorld
-    import.link style.css
+    import.css.link style.css
     import.script main.js
 )
 -
