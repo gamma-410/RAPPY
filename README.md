@@ -13,7 +13,7 @@
 ```
 - RAPPY
 ```
-! jp
+! ja
 ```
 
 ### class を付与 した hedding
